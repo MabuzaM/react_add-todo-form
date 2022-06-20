@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,UACE,mBAAoB,CACpB,eACF","file":"main.77817d45.chunk.css","sourcesContent":[".UserInfo {\n  display: inline-flex;\n  list-style: none;\n}\n"]}
